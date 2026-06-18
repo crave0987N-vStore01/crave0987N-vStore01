@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://crave-production-cake-store-v10.vercel.app/sitemap.xml
