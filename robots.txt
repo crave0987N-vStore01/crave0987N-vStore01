@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://crave-production-cake-store-v10.vercel.app/sitemap.xml
+
+# Block admin paths from indexing
+Disallow: /#admin-panel
+Disallow: /#password-modal
+
+# Allow all bots to crawl all content
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
