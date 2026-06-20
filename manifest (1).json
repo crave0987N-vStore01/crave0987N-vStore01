@@ -1,0 +1,38 @@
+{
+  "name": "Crave Productions Pvt Ltd",
+  "short_name": "Crave",
+  "description": "Premium bakery & custom cake shop in Katugastota, Sri Lanka. Order freshly baked cakes, pastries & desserts.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#121212",
+  "theme_color": "#C11718",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/SX2jTGD4/Crave-Productions-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/SX2jTGD4/Crave-Productions-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://i.ibb.co/SX2jTGD4/Crave-Productions-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/SX2jTGD4/Crave-Productions-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
